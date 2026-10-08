@@ -28,7 +28,7 @@ Database `db_katalog_buku` terdiri dari 3 tabel:
 - **Penulis ke Buku:** One-to-Many (1:N) - Satu penulis bisa menulis banyak buku.
 
 ## Cara Menjalankan Proyek
-1. Pastikan Laragon/XAMPP aktif (Apache & MySQL)[cite: 7].
-2. Import file `database/schema.sql` ke MySQL via DBeaver atau phpMyAdmin[cite: 17].
-3. Simpan folder proyek pada direktori `C:\laragon\www\`[cite: 17].
-4. Buka browser dan akses `http://localhost/25081010114_IkmalGhozali_KatalogBuku/`[cite: 20].
+1. Pastikan Laragon/XAMPP aktif (Apache & MySQL).
+2. Import file `database/schema.sql` ke MySQL via DBeaver atau phpMyAdmin.
+3. Simpan folder proyek pada direktori `C:\laragon\www\`.
+4. Buka browser dan akses `http://localhost/25081010114_IkmalGhozali_KatalogBuku/`.
